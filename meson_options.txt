@@ -1,0 +1,4 @@
+option('android_sdk', type: 'string', value: '/home/vptr/Android/Sdk', description: 'Path to Android SDK')
+option('android_platform', type: 'string', value: 'android-19', description: 'Android platform version')
+option('build_tools_version', type: 'string', value: '36.0.0', description: 'Android build-tools version')
+option('target_java_version', type: 'string', value: '21', description: 'Target Java version')
